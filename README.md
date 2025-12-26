@@ -1,8 +1,5 @@
 # Detecting Needle in a Haystack: Advanced Resampling Strategies for Fraud Detection
 
-- Author: Charukhesh
-- Roll No:  AE22B028
-
 ## 📖 Project Overview
 
 This project explores advanced techniques for handling class imbalance in credit card fraud detection, including SMOTE, Clustering-Based Oversampling (CBO), and Clustering-Based Undersampling (CBU) to improve minority class detection.
@@ -10,7 +7,7 @@ This project explores advanced techniques for handling class imbalance in credit
 ## 📁 Repository Structure
 
 ```
-assignment-3-Charukhesh/
+SamplingTechniques/
 │
 ├── main.ipynb
 ├── creditcard_dataset/
@@ -41,8 +38,8 @@ Install the required libraries using pip:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/DA5401-JUL-NOV-2025/assignment-3-Charukhesh.git
-    cd assignment-3-Charukhesh
+    git clone https://github.com/DA5401-JUL-NOV-2025/SamplingTechniques.git
+    cd SamplingTechniques
     ```
 
 2. **Dataset**
